@@ -1,4 +1,4 @@
-# Chnages in the files
+# Changes in the files
 This is the same deepstream-test2 example found in /opt/nvidia/deepstream/deepstream/sources/apps/sample_apps/deepstream-test2 with some modifications. 
 These include printing the classification details of the sgie inferences on the primary detected object. 
 In addition, we had to add some plugins to produce a mp4 output.
