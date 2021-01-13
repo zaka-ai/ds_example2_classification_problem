@@ -2,6 +2,10 @@
 This is the same deepstream-test2 example found in /opt/nvidia/deepstream/deepstream/sources/apps/sample_apps/deepstream-test2 with some modifications. 
 These include printing the classification details of the sgie inferences on the primary detected object. 
 In addition, we had to add some plugins to produce a mp4 output.
+
+in the issue.png, a sample output is shown as some classifications exit for some objects only but not all of them. 
+In addition some frames contain objects with no classification output 
+
 ---
 
 *****************************************************************************
