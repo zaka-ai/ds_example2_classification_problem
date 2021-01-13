@@ -6,7 +6,7 @@ In addition, we had to add some plugins to produce a mp4 output.
 in the issue.png, a sample output is shown as some classifications exit for some objects only but not all of them. 
 In addition some frames contain objects with no classification output 
 
----
+----------------------------------------------------------------------------
 
 *****************************************************************************
 * Copyright (c) 2018 NVIDIA Corporation.  All rights reserved.
